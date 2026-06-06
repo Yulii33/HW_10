@@ -34,10 +34,4 @@
    34  git add command_list.csv
    35  git commit -m "created command_list.csv"
    36  git push
-   37  cat command.csv
-   38  less command.csv
-   39  history
-   40  cat command_list.csv
-   41  history > test.csv
-   42  cat test.csv
-   43  history > command_list.csv
+  
